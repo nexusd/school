@@ -1,0 +1,36 @@
+[21-Feb-2012 23:10:01] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[21-Feb-2012 23:10:39] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 491520 bytes) in /home4/sayemaco/public_html/school/sites/all/modules/views_bulk_operations/views/views_bulk_operations.views_default.inc on line 298
+[21-Feb-2012 23:11:50] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 491520 bytes) in /home4/sayemaco/public_html/school/sites/all/modules/views_bulk_operations/views/views_bulk_operations.views_default.inc on line 298
+[22-Feb-2012 23:54:20] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[22-Feb-2012 23:58:41] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 00:05:35] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7680 bytes) in /home4/sayemaco/public_html/school/sites/all/modules/views/plugins/views_plugin_access_perm.inc on line 25
+[23-Feb-2012 00:06:04] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 30720 bytes) in /home4/sayemaco/public_html/school/sites/all/modules/views/handlers/views_handler_argument_date.inc on line 53
+[23-Feb-2012 00:06:42] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 101 bytes) in /home4/sayemaco/public_html/school/includes/database/select.inc on line 1020
+[23-Feb-2012 00:07:12] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 71 bytes) in /home4/sayemaco/public_html/school/includes/bootstrap.inc on line 977
+[23-Feb-2012 00:07:42] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 86 bytes) in /home4/sayemaco/public_html/school/includes/menu.inc on line 3711
+[23-Feb-2012 00:08:12] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 00:08:57] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 00:09:46] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 00:10:19] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 00:10:52] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home4/sayemaco/public_html/school/sites/all/modules/views/plugins/views_plugin_display_page.inc on line 39
+[23-Feb-2012 00:12:59] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 00:18:57] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 00:19:15] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 00:19:48] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 71 bytes) in /home4/sayemaco/public_html/school/includes/theme.inc on line 1128
+[23-Feb-2012 00:20:13] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4 bytes) in /home4/sayemaco/public_html/school/includes/database/database.inc on line 2168
+[23-Feb-2012 12:03:07] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 491520 bytes) in /home4/sayemaco/public_html/school/sites/all/modules/views/modules/node.views_default.inc on line 279
+[23-Feb-2012 12:03:44] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 12:13:13] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 12:23:27] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 491520 bytes) in /home4/sayemaco/public_html/school/sites/all/modules/views/modules/node.views_default.inc on line 279
+[23-Feb-2012 13:57:38] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 398008 bytes) in /home4/sayemaco/public_html/school/includes/cache.inc on line 359
+[23-Feb-2012 13:58:15] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 14:01:13] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 14:02:22] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 86 bytes) in /home4/sayemaco/public_html/school/includes/form.inc on line 1780
+[23-Feb-2012 14:09:38] PHP Fatal error:  Call to undefined function  _views_prepare_handler() in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 1146
+[23-Feb-2012 14:10:13] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24 bytes) in /home4/sayemaco/public_html/school/includes/theme.inc on line 1128
+[23-Feb-2012 14:43:38] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 71 bytes) in /home4/sayemaco/public_html/school/sites/all/modules/views/views.module on line 364
+[23-Feb-2012 14:44:08] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 83 bytes) in /home4/sayemaco/public_html/school/sites/all/modules/views/includes/base.inc on line 119
+[23-Feb-2012 14:46:35] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24 bytes) in /home4/sayemaco/public_html/school/includes/menu.inc on line 1436
+[23-Feb-2012 14:50:56] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20 bytes) in /home4/sayemaco/public_html/school/sites/all/modules/views/includes/base.inc on line 75
+[23-Feb-2012 15:39:21] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home4/sayemaco/public_html/school/includes/menu.inc on line 3612
+[23-Feb-2012 15:40:18] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 87 bytes) in /home4/sayemaco/public_html/school/includes/menu.inc on line 3714
